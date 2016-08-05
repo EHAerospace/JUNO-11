@@ -4,3 +4,8 @@ JUNO-11 is the first rocket of EHAerospace. This is the code of the Arduino base
 #The code
 The arduino reads data from the barometric pressure sensor BMP180 and when it detects a high negative altiude change activates the pin 2
 to deploy the parachute.
+#Rocket design
+JUNO was designed in Open Rocket. Open Rocket is a free open source program to design rockets. You need this program to open JUNO-11.ork, you can download Open Rocket from: http://openrocket.sourceforge.net/.
+
+If you have any question: info@ehaerospace.space
+Our web page: www.ehaerospace.space
