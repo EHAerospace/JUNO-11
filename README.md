@@ -7,5 +7,7 @@ to deploy the parachute.
 #Rocket design
 JUNO was designed in Open Rocket. Open Rocket is a free open source program to design rockets. You need this program to open JUNO-11.ork, you can download Open Rocket from: http://openrocket.sourceforge.net/.
 
+The engine nozzle mold and the rocket nosecone are in .STL file to 3d print.
+
 If you have any question: info@ehaerospace.space
 Our web page: www.ehaerospace.space
