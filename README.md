@@ -14,8 +14,3 @@ The engine nozzle mold and the rocket nosecone are in .STL file to 3d print.
 If you have any question: info@ehaerospace.space
 Our web page: www.ehaerospace.space
 
-
-
-Data_colector-1beta.ino	Arduino based data colector inside JUNO-11C	7 minutes ago
-JUNO-11.ork	Add files via upload	3 days ago
-PARACGUTE_SOFTW._JUNO-10.ino
